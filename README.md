@@ -13,7 +13,7 @@ The objective of this project is to explore and analyze potential determinants o
 - Social support from friends and family
 
 
-The study is framed around four core research questions and employs methods including:
+The study employs the following statistical methods including:
 
 - Two-sample proportion tests
 
