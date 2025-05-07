@@ -1,7 +1,7 @@
 # 📊 Analyzing Factors Influencing Extracurricular Activity Participation
 This is a group based project that I made for the class **STA304: Surveys, Sampling and Observational Data**, this course focus on the designs of surveys, sampling techniques and how to address biasness in observational data emphasizing both sampling inference and the impact of non-sampling errors on survey results. For this project our team conducted a study to investigates which factors are significantly associated with the likelihood of student participation in extracurricular activities.
 
-🧠 Project Objective
+# 🧠 Project Objective
 The objective of this project is to explore and analyze potential determinants of extracurricular activity participation among university students, such as:
 
 - Personal preferences
@@ -22,7 +22,7 @@ The study is framed around four core research questions and employs methods incl
 - Logistic regression analysis
 
 
-📝 Research Questions
+# 📝 Research Questions
 - Do personal preferences influence participation in extracurricular activities?
 
 - To what extent do academic/work commitments affect participation?
@@ -31,8 +31,8 @@ The study is framed around four core research questions and employs methods incl
 
 - Do opinions of family/friends influence a student's participation decision?
 
-📦 Repository Contents
-- File	Description
+# 📦 Repository Contents
+- Codebook: Column names and Abbrevations
   
 - Final Report.pdf	Full written report containing methodology, results, interpretation, and conclusions.
   
