@@ -23,13 +23,13 @@ The objective of this project is to explore and analyze potential determinants o
 
 
 # 📝 Research Questions
-- Do personal preferences influence participation in extracurricular activities?
+- **Do personal preferences influence participation in extracurricular activities?**
 
-- To what extent do academic/work commitments affect participation?
+- **To what extent do academic/work commitments affect participation?**
 
-- Does perceived importance of extracurriculars differ between domestic and international students?
+- **Does perceived importance of extracurriculars differ between domestic and international students?**
 
-- Do opinions of family/friends influence a student's participation decision?
+- **Do opinions of family/friends influence a student's participation decision?**
 
 # 📦 Repository Contents
 - Codebook: Column names and Abbrevations
@@ -38,7 +38,7 @@ The objective of this project is to explore and analyze potential determinants o
   
 - sta304_analysis.Rmd	R Markdown file with full codebase: data import, cleaning, exploratory analysis, hypothesis testing, and regression models.
   
-= STA304 Survey - Google Forms.pdf: The survey form used for data collection.
+- STA304 Survey - Google Forms.pdf: The survey form used for data collection.
 
 
 
