@@ -17,11 +17,11 @@ The objective of this project is to explore and analyze potential determinants o
 
 > The study employs the following statistical methods including:
 
-- **Two-sample proportion tests**
+- **Two-Sample Proportion Tests**
 
-- **Chi-square test of independence**
+- **Chi-Square Test of Independence**
 
-- **Logistic regression analysis**
+- **Logistic Regression Analysis**
 
 
 # 📝 Research Questions
