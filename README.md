@@ -42,7 +42,7 @@ The objective of this project is to explore and analyze potential determinants o
   
 - sta304_analysis.Rmd	: the code for the entire study.
   
-- STA304 Survey - Google Forms.pdf: The survey form used for data collection.
+- Google Form Survey: The survey form used for data collection.
 
 - Cleaned data file
 
