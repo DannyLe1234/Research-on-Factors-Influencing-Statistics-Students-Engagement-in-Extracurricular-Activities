@@ -13,8 +13,7 @@ The objective of this project is to explore and analyze potential determinants o
 - Social support from friends and family
 
 
-
-The study employs the following statistical methods including:
+> The study employs the following statistical methods including:
 
 - **Two-sample proportion tests**
 
