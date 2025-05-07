@@ -13,13 +13,14 @@ The objective of this project is to explore and analyze potential determinants o
 - Social support from friends and family
 
 
+
 The study employs the following statistical methods including:
 
-- Two-sample proportion tests
+- **Two-sample proportion tests**
 
-- Chi-square test of independence
+- **Chi-square test of independence**
 
-- Logistic regression analysis
+- **Logistic regression analysis**
 
 
 # 📝 Research Questions
