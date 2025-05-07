@@ -35,12 +35,18 @@ The objective of this project is to explore and analyze potential determinants o
 
 # 📦 Repository Contents
 - Codebook: Column names and Abbrevations
+
+- Proposal: strustured plan of how we plan to conduct this research
   
-- Final Report.pdf	Full written report containing methodology, results, interpretation, and conclusions.
+- Final Report.pdf: Full written report containing methodology, results, interpretation, and conclusions.
   
-- sta304_analysis.Rmd	R Markdown file with full codebase: data import, cleaning, exploratory analysis, hypothesis testing, and regression models.
+- sta304_analysis.Rmd	: the code for the entire study.
   
 - STA304 Survey - Google Forms.pdf: The survey form used for data collection.
+
+- Cleaned data file
+
+- Raw data file
 
 
 
